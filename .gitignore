@@ -4,7 +4,4 @@ what2.md
 
 # compile from less
 # > lessc html/document.less > html/document.css
-html/document.css
-html/sakana.css
-package-lock.json
-node_modules
+document.css
